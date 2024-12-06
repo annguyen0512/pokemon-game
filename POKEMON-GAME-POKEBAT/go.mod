@@ -1,0 +1,3 @@
+module POKEMON-GAME-POKEBAT
+
+go 1.23.1
