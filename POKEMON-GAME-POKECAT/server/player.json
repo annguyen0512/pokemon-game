@@ -1,0 +1,475 @@
+[
+ {
+  "id": 1,
+  "name": "Red",
+  "pokemon_list": [
+   {
+    "id": 1,
+    "name": "Pikachu",
+    "type": [
+     "Electric"
+    ],
+    "base_exp": 112,
+    "speed": 120,
+    "attack": 80,
+    "defense": 50,
+    "special_atk": 75,
+    "special_def": 60,
+    "hp": 45,
+    "ev": 2,
+    "current_exp": 112,
+    "level": 1,
+    "SpawnTime": "0001-01-01T00:00:00Z",
+    "Coord": {
+     "X": 0,
+     "Y": 0
+    }
+   },
+   {
+    "id": 2,
+    "name": "Bulbasaur",
+    "type": [
+     "Grass",
+     "Poison"
+    ],
+    "base_exp": 64,
+    "speed": 45,
+    "attack": 49,
+    "defense": 49,
+    "special_atk": 65,
+    "special_def": 65,
+    "hp": 45,
+    "ev": 1,
+    "current_exp": 64,
+    "level": 1,
+    "SpawnTime": "0001-01-01T00:00:00Z",
+    "Coord": {
+     "X": 0,
+     "Y": 0
+    }
+   },
+   {
+    "id": 3,
+    "name": "Squirtle",
+    "type": [
+     "Water"
+    ],
+    "base_exp": 63,
+    "speed": 43,
+    "attack": 48,
+    "defense": 65,
+    "special_atk": 50,
+    "special_def": 64,
+    "hp": 44,
+    "ev": 1,
+    "current_exp": 63,
+    "level": 1,
+    "SpawnTime": "0001-01-01T00:00:00Z",
+    "Coord": {
+     "X": 0,
+     "Y": 0
+    }
+   },
+   {
+    "id": 4,
+    "name": "Pidgeot",
+    "type": [
+     "Normal",
+     "Flying"
+    ],
+    "base_exp": 261,
+    "speed": 121,
+    "attack": 80,
+    "defense": 80,
+    "special_atk": 135,
+    "special_def": 80,
+    "hp": 83,
+    "ev": 3,
+    "current_exp": 261,
+    "level": 1,
+    "SpawnTime": "0001-01-01T00:00:00Z",
+    "Coord": {
+     "X": 0,
+     "Y": 0
+    }
+   },
+   {
+    "id": 12,
+    "name": "Meowth",
+    "type": [
+     "Normal"
+    ],
+    "base_exp": 58,
+    "speed": 40,
+    "attack": 65,
+    "defense": 55,
+    "special_atk": 40,
+    "special_def": 40,
+    "hp": 50,
+    "ev": 1,
+    "current_exp": 58,
+    "level": 1,
+    "SpawnTime": "2024-06-14T13:36:46.7071323+07:00",
+    "Coord": {
+     "X": 2,
+     "Y": 2
+    }
+   },
+   {
+    "id": 52,
+    "name": "Tauros",
+    "type": [
+     "Normal"
+    ],
+    "base_exp": 172,
+    "speed": 100,
+    "attack": 110,
+    "defense": 105,
+    "special_atk": 30,
+    "special_def": 70,
+    "hp": 75,
+    "ev": 2,
+    "current_exp": 172,
+    "level": 1,
+    "SpawnTime": "2024-06-14T19:38:38.0148785+07:00",
+    "Coord": {
+     "X": 1,
+     "Y": 4
+    }
+   },
+   {
+    "id": 6,
+    "name": "Murkrow",
+    "type": [
+     "Dark",
+     "Flying"
+    ],
+    "base_exp": 81,
+    "speed": 91,
+    "attack": 85,
+    "defense": 42,
+    "special_atk": 85,
+    "special_def": 42,
+    "hp": 60,
+    "ev": 1,
+    "current_exp": 81,
+    "level": 1,
+    "SpawnTime": "2024-06-14T13:36:46.707003+07:00",
+    "Coord": {
+     "X": 1,
+     "Y": 4
+    }
+   },
+   {
+    "id": 36,
+    "name": "Weedle",
+    "type": [
+     "Bug",
+     "Poison"
+    ],
+    "base_exp": 39,
+    "speed": 50,
+    "attack": 35,
+    "defense": 30,
+    "special_atk": 20,
+    "special_def": 20,
+    "hp": 40,
+    "ev": 1,
+    "current_exp": 39,
+    "level": 1,
+    "SpawnTime": "2024-06-14T13:42:02.2355811+07:00",
+    "Coord": {
+     "X": 3,
+     "Y": 4
+    }
+   },
+   {
+    "id": 126,
+    "name": "Slowking",
+    "type": [
+     "Water",
+     "Psychic"
+    ],
+    "base_exp": 172,
+    "speed": 30,
+    "attack": 65,
+    "defense": 80,
+    "special_atk": 110,
+    "special_def": 110,
+    "hp": 95,
+    "ev": 2,
+    "current_exp": 172,
+    "level": 1,
+    "SpawnTime": "2024-12-21T22:02:51.038295+07:00",
+    "Coord": {
+     "X": 3,
+     "Y": 6
+    }
+   },
+   {
+    "id": 240,
+    "name": "Totodile",
+    "type": [
+     "Water"
+    ],
+    "base_exp": 63,
+    "speed": 43,
+    "attack": 65,
+    "defense": 64,
+    "special_atk": 44,
+    "special_def": 48,
+    "hp": 50,
+    "ev": 1,
+    "current_exp": 63,
+    "level": 1,
+    "SpawnTime": "2024-12-21T22:17:39.294464+07:00",
+    "Coord": {
+     "X": 3,
+     "Y": 7
+    }
+   },
+   {
+    "id": 16,
+    "name": "Raticate",
+    "type": [
+     "Normal"
+    ],
+    "base_exp": 145,
+    "speed": 77,
+    "attack": 71,
+    "defense": 70,
+    "special_atk": 40,
+    "special_def": 80,
+    "hp": 75,
+    "ev": 2,
+    "current_exp": 145,
+    "level": 1,
+    "SpawnTime": "2024-12-21T22:27:42.288851+07:00",
+    "Coord": {
+     "X": 4,
+     "Y": 7
+    }
+   },
+   {
+    "id": 40,
+    "name": "Totodile",
+    "type": [
+     "Water"
+    ],
+    "base_exp": 63,
+    "speed": 43,
+    "attack": 65,
+    "defense": 64,
+    "special_atk": 44,
+    "special_def": 48,
+    "hp": 50,
+    "ev": 1,
+    "current_exp": 63,
+    "level": 1,
+    "SpawnTime": "2024-12-21T22:41:37.025503+07:00",
+    "Coord": {
+     "X": 6,
+     "Y": 2
+    }
+   }
+  ],
+  "CurrentCoord": {
+   "X": 6,
+   "Y": 3
+  }
+ },
+ {
+  "id": 2,
+  "name": "Blue",
+  "pokemon_list": [
+   {
+    "id": 1,
+    "name": "Charmander",
+    "type": [
+     "Fire"
+    ],
+    "base_exp": 62,
+    "speed": 65,
+    "attack": 52,
+    "defense": 43,
+    "special_atk": 60,
+    "special_def": 50,
+    "hp": 39,
+    "ev": 1,
+    "current_exp": 62,
+    "level": 1,
+    "SpawnTime": "0001-01-01T00:00:00Z",
+    "Coord": {
+     "X": 0,
+     "Y": 0
+    }
+   },
+   {
+    "id": 2,
+    "name": "Pidgey",
+    "type": [
+     "Normal",
+     "Flying"
+    ],
+    "base_exp": 50,
+    "speed": 56,
+    "attack": 45,
+    "defense": 40,
+    "special_atk": 35,
+    "special_def": 35,
+    "hp": 40,
+    "ev": 1,
+    "current_exp": 50,
+    "level": 1,
+    "SpawnTime": "0001-01-01T00:00:00Z",
+    "Coord": {
+     "X": 0,
+     "Y": 0
+    }
+   },
+   {
+    "id": 3,
+    "name": "Caterpie",
+    "type": [
+     "Bug"
+    ],
+    "base_exp": 39,
+    "speed": 45,
+    "attack": 30,
+    "defense": 35,
+    "special_atk": 20,
+    "special_def": 20,
+    "hp": 45,
+    "ev": 1,
+    "current_exp": 39,
+    "level": 1,
+    "SpawnTime": "0001-01-01T00:00:00Z",
+    "Coord": {
+     "X": 0,
+     "Y": 0
+    }
+   },
+   {
+    "id": 4,
+    "name": "Kakuna",
+    "type": [
+     "Bug",
+     "Poison"
+    ],
+    "base_exp": 72,
+    "speed": 35,
+    "attack": 25,
+    "defense": 50,
+    "special_atk": 25,
+    "special_def": 25,
+    "hp": 45,
+    "ev": 2,
+    "current_exp": 0,
+    "level": 1,
+    "SpawnTime": "0001-01-01T00:00:00Z",
+    "Coord": {
+     "X": 0,
+     "Y": 0
+    }
+   },
+   {
+    "id": 8,
+    "name": "Crobat",
+    "type": [
+     "Poison",
+     "Flying"
+    ],
+    "base_exp": 241,
+    "speed": 130,
+    "attack": 90,
+    "defense": 80,
+    "special_atk": 70,
+    "special_def": 80,
+    "hp": 85,
+    "ev": 3,
+    "current_exp": 241,
+    "level": 1,
+    "SpawnTime": "2024-06-14T19:36:37.9886426+07:00",
+    "Coord": {
+     "X": 0,
+     "Y": 2
+    }
+   },
+   {
+    "id": 80,
+    "name": "Sandslash",
+    "type": [
+     "Ground"
+    ],
+    "base_exp": 158,
+    "speed": 65,
+    "attack": 100,
+    "defense": 120,
+    "special_atk": 25,
+    "special_def": 65,
+    "hp": 75,
+    "ev": 2,
+    "current_exp": 158,
+    "level": 1,
+    "SpawnTime": "2024-12-21T22:09:39.215003+07:00",
+    "Coord": {
+     "X": 6,
+     "Y": 0
+    }
+   },
+   {
+    "id": 60,
+    "name": "Feraligatr",
+    "type": [
+     "Water"
+    ],
+    "base_exp": 239,
+    "speed": 78,
+    "attack": 105,
+    "defense": 100,
+    "special_atk": 79,
+    "special_def": 83,
+    "hp": 85,
+    "ev": 2,
+    "current_exp": 239,
+    "level": 1,
+    "SpawnTime": "2024-12-21T22:08:39.19353+07:00",
+    "Coord": {
+     "X": 6,
+     "Y": 0
+    }
+   }
+  ],
+  "CurrentCoord": {
+   "X": 6,
+   "Y": 0
+  }
+ },
+ {
+  "id": 3,
+  "name": "Ash",
+  "pokemon_list": [],
+  "CurrentCoord": {
+   "X": 7,
+   "Y": 4
+  }
+ },
+ {
+  "id": 4,
+  "name": "Alex",
+  "pokemon_list": [],
+  "CurrentCoord": {
+   "X": 8,
+   "Y": 0
+  }
+ },
+ {
+  "id": 5,
+  "name": "thuy",
+  "pokemon_list": [],
+  "CurrentCoord": {
+   "X": 8,
+   "Y": 3
+  }
+ }
+]

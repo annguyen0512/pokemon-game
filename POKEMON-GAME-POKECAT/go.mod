@@ -1,0 +1,3 @@
+module POKEMON-GAME-POKECAT
+
+go 1.23.1
