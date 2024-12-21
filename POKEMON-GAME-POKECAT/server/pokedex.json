@@ -24184,5 +24184,678 @@
    "X": 6,
    "Y": 2
   }
+ },
+ {
+  "id": 2,
+  "name": "Sunflora",
+  "type": [
+   "Grass"
+  ],
+  "base_exp": 149,
+  "speed": 30,
+  "attack": 75,
+  "defense": 55,
+  "special_atk": 105,
+  "special_def": 85,
+  "hp": 75,
+  "ev": 2,
+  "current_exp": 149,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:52:02.686215+07:00",
+  "Coord": {
+   "X": 3,
+   "Y": 3
+  }
+ },
+ {
+  "id": 4,
+  "name": "Caterpie",
+  "type": [
+   "Bug"
+  ],
+  "base_exp": 39,
+  "speed": 45,
+  "attack": 30,
+  "defense": 35,
+  "special_atk": 20,
+  "special_def": 20,
+  "hp": 45,
+  "ev": 1,
+  "current_exp": 39,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:52:02.686346+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 5
+  }
+ },
+ {
+  "id": 6,
+  "name": "Sentret",
+  "type": [
+   "Normal"
+  ],
+  "base_exp": 43,
+  "speed": 20,
+  "attack": 46,
+  "defense": 34,
+  "special_atk": 35,
+  "special_def": 45,
+  "hp": 35,
+  "ev": 1,
+  "current_exp": 43,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:52:02.686364+07:00",
+  "Coord": {
+   "X": 1,
+   "Y": 2
+  }
+ },
+ {
+  "id": 8,
+  "name": "Bellossom",
+  "type": [
+   "Grass"
+  ],
+  "base_exp": 221,
+  "speed": 50,
+  "attack": 80,
+  "defense": 95,
+  "special_atk": 90,
+  "special_def": 100,
+  "hp": 75,
+  "ev": 3,
+  "current_exp": 221,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:52:02.686379+07:00",
+  "Coord": {
+   "X": 2,
+   "Y": 1
+  }
+ },
+ {
+  "id": 10,
+  "name": "Sandslash",
+  "type": [
+   "Ground"
+  ],
+  "base_exp": 158,
+  "speed": 65,
+  "attack": 100,
+  "defense": 120,
+  "special_atk": 25,
+  "special_def": 65,
+  "hp": 75,
+  "ev": 2,
+  "current_exp": 158,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:52:02.686385+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 6
+  }
+ },
+ {
+  "id": 12,
+  "name": "Mankey",
+  "type": [
+   "Fighting"
+  ],
+  "base_exp": 61,
+  "speed": 70,
+  "attack": 80,
+  "defense": 35,
+  "special_atk": 35,
+  "special_def": 45,
+  "hp": 40,
+  "ev": 1,
+  "current_exp": 61,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:52:02.686398+07:00",
+  "Coord": {
+   "X": 9,
+   "Y": 0
+  }
+ },
+ {
+  "id": 14,
+  "name": "Dratini",
+  "type": [
+   "Dragon"
+  ],
+  "base_exp": 60,
+  "speed": 50,
+  "attack": 64,
+  "defense": 45,
+  "special_atk": 50,
+  "special_def": 50,
+  "hp": 41,
+  "ev": 1,
+  "current_exp": 60,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:52:02.686403+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 5
+  }
+ },
+ {
+  "id": 16,
+  "name": "Magnemite",
+  "type": [
+   "Electric",
+   "Steel"
+  ],
+  "base_exp": 65,
+  "speed": 45,
+  "attack": 35,
+  "defense": 70,
+  "special_atk": 95,
+  "special_def": 55,
+  "hp": 25,
+  "ev": 1,
+  "current_exp": 65,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:52:02.686407+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 5
+  }
+ },
+ {
+  "id": 18,
+  "name": "Ariados",
+  "type": [
+   "Bug",
+   "Poison"
+  ],
+  "base_exp": 140,
+  "speed": 40,
+  "attack": 90,
+  "defense": 70,
+  "special_atk": 60,
+  "special_def": 70,
+  "hp": 70,
+  "ev": 2,
+  "current_exp": 140,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:52:02.686412+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 9
+  }
+ },
+ {
+  "id": 20,
+  "name": "Oddish",
+  "type": [
+   "Grass",
+   "Poison"
+  ],
+  "base_exp": 64,
+  "speed": 30,
+  "attack": 50,
+  "defense": 55,
+  "special_atk": 75,
+  "special_def": 65,
+  "hp": 45,
+  "ev": 1,
+  "current_exp": 64,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:52:02.686425+07:00",
+  "Coord": {
+   "X": 3,
+   "Y": 7
+  }
+ },
+ {
+  "id": 22,
+  "name": "Rapidash",
+  "type": [
+   "Fire"
+  ],
+  "base_exp": 175,
+  "speed": 105,
+  "attack": 100,
+  "defense": 70,
+  "special_atk": 80,
+  "special_def": 80,
+  "hp": 65,
+  "ev": 2,
+  "current_exp": 175,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:53:02.699891+07:00",
+  "Coord": {
+   "X": 5,
+   "Y": 2
+  }
+ },
+ {
+  "id": 24,
+  "name": "Charizard",
+  "type": [
+   "Fire",
+   "Flying"
+  ],
+  "base_exp": 285,
+  "speed": 100,
+  "attack": 104,
+  "defense": 78,
+  "special_atk": 159,
+  "special_def": 115,
+  "hp": 78,
+  "ev": 3,
+  "current_exp": 285,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:53:02.699958+07:00",
+  "Coord": {
+   "X": 9,
+   "Y": 3
+  }
+ },
+ {
+  "id": 26,
+  "name": "Dodrio",
+  "type": [
+   "Normal",
+   "Flying"
+  ],
+  "base_exp": 165,
+  "speed": 110,
+  "attack": 110,
+  "defense": 70,
+  "special_atk": 60,
+  "special_def": 60,
+  "hp": 60,
+  "ev": 2,
+  "current_exp": 165,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:53:02.69997+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 8
+  }
+ },
+ {
+  "id": 28,
+  "name": "Weedle",
+  "type": [
+   "Bug",
+   "Poison"
+  ],
+  "base_exp": 39,
+  "speed": 50,
+  "attack": 35,
+  "defense": 30,
+  "special_atk": 20,
+  "special_def": 20,
+  "hp": 40,
+  "ev": 1,
+  "current_exp": 39,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:53:02.699977+07:00",
+  "Coord": {
+   "X": 7,
+   "Y": 2
+  }
+ },
+ {
+  "id": 30,
+  "name": "Quagsire",
+  "type": [
+   "Water",
+   "Ground"
+  ],
+  "base_exp": 151,
+  "speed": 35,
+  "attack": 85,
+  "defense": 85,
+  "special_atk": 65,
+  "special_def": 65,
+  "hp": 95,
+  "ev": 2,
+  "current_exp": 151,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:53:02.699983+07:00",
+  "Coord": {
+   "X": 3,
+   "Y": 3
+  }
+ },
+ {
+  "id": 32,
+  "name": "Parasect",
+  "type": [
+   "Bug",
+   "Grass"
+  ],
+  "base_exp": 142,
+  "speed": 30,
+  "attack": 95,
+  "defense": 80,
+  "special_atk": 60,
+  "special_def": 80,
+  "hp": 60,
+  "ev": 2,
+  "current_exp": 142,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:53:02.699991+07:00",
+  "Coord": {
+   "X": 7,
+   "Y": 1
+  }
+ },
+ {
+  "id": 34,
+  "name": "Weepinbell",
+  "type": [
+   "Grass",
+   "Poison"
+  ],
+  "base_exp": 137,
+  "speed": 55,
+  "attack": 90,
+  "defense": 50,
+  "special_atk": 85,
+  "special_def": 45,
+  "hp": 65,
+  "ev": 2,
+  "current_exp": 137,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:53:02.700053+07:00",
+  "Coord": {
+   "X": 5,
+   "Y": 3
+  }
+ },
+ {
+  "id": 36,
+  "name": "Dragonite",
+  "type": [
+   "Dragon",
+   "Flying"
+  ],
+  "base_exp": 300,
+  "speed": 80,
+  "attack": 134,
+  "defense": 95,
+  "special_atk": 100,
+  "special_def": 100,
+  "hp": 91,
+  "ev": 3,
+  "current_exp": 300,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:53:02.70006+07:00",
+  "Coord": {
+   "X": 2,
+   "Y": 6
+  }
+ },
+ {
+  "id": 38,
+  "name": "Ditto",
+  "type": [
+   "Normal"
+  ],
+  "base_exp": 101,
+  "speed": 48,
+  "attack": 48,
+  "defense": 48,
+  "special_atk": 48,
+  "special_def": 48,
+  "hp": 48,
+  "ev": 1,
+  "current_exp": 101,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:53:02.700065+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 7
+  }
+ },
+ {
+  "id": 40,
+  "name": "Sunkern",
+  "type": [
+   "Grass"
+  ],
+  "base_exp": 36,
+  "speed": 30,
+  "attack": 30,
+  "defense": 30,
+  "special_atk": 30,
+  "special_def": 30,
+  "hp": 30,
+  "ev": 1,
+  "current_exp": 36,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:53:02.700093+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 8
+  }
+ },
+ {
+  "id": 42,
+  "name": "Dodrio",
+  "type": [
+   "Normal",
+   "Flying"
+  ],
+  "base_exp": 165,
+  "speed": 110,
+  "attack": 110,
+  "defense": 70,
+  "special_atk": 60,
+  "special_def": 60,
+  "hp": 60,
+  "ev": 2,
+  "current_exp": 165,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:54:02.715386+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 3
+  }
+ },
+ {
+  "id": 44,
+  "name": "Gyarados",
+  "type": [
+   "Water",
+   "Flying"
+  ],
+  "base_exp": 224,
+  "speed": 81,
+  "attack": 155,
+  "defense": 109,
+  "special_atk": 70,
+  "special_def": 130,
+  "hp": 95,
+  "ev": 2,
+  "current_exp": 224,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:54:02.715449+07:00",
+  "Coord": {
+   "X": 1,
+   "Y": 9
+  }
+ },
+ {
+  "id": 46,
+  "name": "Growlithe",
+  "type": [
+   "Fire"
+  ],
+  "base_exp": 70,
+  "speed": 55,
+  "attack": 75,
+  "defense": 45,
+  "special_atk": 65,
+  "special_def": 50,
+  "hp": 60,
+  "ev": 1,
+  "current_exp": 70,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:54:02.715461+07:00",
+  "Coord": {
+   "X": 2,
+   "Y": 3
+  }
+ },
+ {
+  "id": 48,
+  "name": "Ponyta",
+  "type": [
+   "Fire"
+  ],
+  "base_exp": 82,
+  "speed": 90,
+  "attack": 85,
+  "defense": 55,
+  "special_atk": 65,
+  "special_def": 65,
+  "hp": 50,
+  "ev": 1,
+  "current_exp": 82,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:54:02.715471+07:00",
+  "Coord": {
+   "X": 1,
+   "Y": 2
+  }
+ },
+ {
+  "id": 50,
+  "name": "Magmar",
+  "type": [
+   "Fire"
+  ],
+  "base_exp": 173,
+  "speed": 93,
+  "attack": 95,
+  "defense": 57,
+  "special_atk": 100,
+  "special_def": 85,
+  "hp": 65,
+  "ev": 2,
+  "current_exp": 173,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:54:02.71548+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 7
+  }
+ },
+ {
+  "id": 52,
+  "name": "Cubone",
+  "type": [
+   "Ground"
+  ],
+  "base_exp": 64,
+  "speed": 35,
+  "attack": 50,
+  "defense": 95,
+  "special_atk": 40,
+  "special_def": 50,
+  "hp": 50,
+  "ev": 1,
+  "current_exp": 64,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:54:02.715489+07:00",
+  "Coord": {
+   "X": 7,
+   "Y": 3
+  }
+ },
+ {
+  "id": 54,
+  "name": "Seel",
+  "type": [
+   "Water"
+  ],
+  "base_exp": 65,
+  "speed": 45,
+  "attack": 45,
+  "defense": 55,
+  "special_atk": 45,
+  "special_def": 70,
+  "hp": 65,
+  "ev": 1,
+  "current_exp": 65,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:54:02.7157+07:00",
+  "Coord": {
+   "X": 9,
+   "Y": 1
+  }
+ },
+ {
+  "id": 56,
+  "name": "Beedrill",
+  "type": [
+   "Bug",
+   "Poison"
+  ],
+  "base_exp": 223,
+  "speed": 145,
+  "attack": 150,
+  "defense": 40,
+  "special_atk": 15,
+  "special_def": 80,
+  "hp": 65,
+  "ev": 2,
+  "current_exp": 223,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:54:02.715713+07:00",
+  "Coord": {
+   "X": 3,
+   "Y": 8
+  }
+ },
+ {
+  "id": 58,
+  "name": "Porygon",
+  "type": [
+   "Normal"
+  ],
+  "base_exp": 79,
+  "speed": 40,
+  "attack": 60,
+  "defense": 70,
+  "special_atk": 85,
+  "special_def": 75,
+  "hp": 65,
+  "ev": 1,
+  "current_exp": 79,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:54:02.715721+07:00",
+  "Coord": {
+   "X": 0,
+   "Y": 2
+  }
+ },
+ {
+  "id": 60,
+  "name": "Pinsir",
+  "type": [
+   "Bug"
+  ],
+  "base_exp": 210,
+  "speed": 105,
+  "attack": 155,
+  "defense": 120,
+  "special_atk": 65,
+  "special_def": 90,
+  "hp": 65,
+  "ev": 2,
+  "current_exp": 210,
+  "level": 1,
+  "SpawnTime": "2024-12-21T22:54:02.715734+07:00",
+  "Coord": {
+   "X": 5,
+   "Y": 7
+  }
  }
 ]

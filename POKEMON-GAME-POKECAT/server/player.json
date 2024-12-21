@@ -271,11 +271,55 @@
      "X": 6,
      "Y": 2
     }
+   },
+   {
+    "id": 14,
+    "name": "Dratini",
+    "type": [
+     "Dragon"
+    ],
+    "base_exp": 60,
+    "speed": 50,
+    "attack": 64,
+    "defense": 45,
+    "special_atk": 50,
+    "special_def": 50,
+    "hp": 41,
+    "ev": 1,
+    "current_exp": 60,
+    "level": 1,
+    "SpawnTime": "2024-12-21T22:52:02.686403+07:00",
+    "Coord": {
+     "X": 6,
+     "Y": 5
+    }
+   },
+   {
+    "id": 40,
+    "name": "Sunkern",
+    "type": [
+     "Grass"
+    ],
+    "base_exp": 36,
+    "speed": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_atk": 30,
+    "special_def": 30,
+    "hp": 30,
+    "ev": 1,
+    "current_exp": 36,
+    "level": 1,
+    "SpawnTime": "2024-12-21T22:53:02.700093+07:00",
+    "Coord": {
+     "X": 8,
+     "Y": 8
+    }
    }
   ],
   "CurrentCoord": {
-   "X": 6,
-   "Y": 3
+   "X": 8,
+   "Y": 8
   }
  },
  {
