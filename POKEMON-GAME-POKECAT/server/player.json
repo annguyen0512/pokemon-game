@@ -315,6 +315,50 @@
      "X": 8,
      "Y": 8
     }
+   },
+   {
+    "id": 30,
+    "name": "Machoke",
+    "type": [
+     "Fighting"
+    ],
+    "base_exp": 142,
+    "speed": 45,
+    "attack": 100,
+    "defense": 70,
+    "special_atk": 50,
+    "special_def": 60,
+    "hp": 80,
+    "ev": 2,
+    "current_exp": 142,
+    "level": 1,
+    "SpawnTime": "2024-12-23T21:35:51.403043+07:00",
+    "Coord": {
+     "X": 8,
+     "Y": 8
+    }
+   },
+   {
+    "id": 44,
+    "name": "Clefairy",
+    "type": [
+     "Fairy"
+    ],
+    "base_exp": 113,
+    "speed": 35,
+    "attack": 45,
+    "defense": 48,
+    "special_atk": 60,
+    "special_def": 65,
+    "hp": 70,
+    "ev": 2,
+    "current_exp": 113,
+    "level": 1,
+    "SpawnTime": "2024-12-23T21:36:51.414587+07:00",
+    "Coord": {
+     "X": 8,
+     "Y": 8
+    }
    }
   ],
   "CurrentCoord": {
@@ -509,11 +553,11 @@
  },
  {
   "id": 5,
-  "name": "thuy",
+  "name": "An",
   "pokemon_list": [],
   "CurrentCoord": {
-   "X": 8,
-   "Y": 3
+   "X": 9,
+   "Y": 8
   }
  }
 ]

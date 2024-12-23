@@ -70,6 +70,7 @@ func fetchData(url string) ([]Pokemon, error) {
 
 	//Create empty pokemon list
 	var pokemons []Pokemon
+	var count = 1
 
 	//Go through over each list item in the list containing Pokemon data
 	doc.Find(".infocard").Each(func(i int, s *goquery.Selection) {
@@ -91,6 +92,8 @@ func fetchData(url string) ([]Pokemon, error) {
 		s.Find(".itype").Each(func(i int, s *goquery.Selection) {
 			pokemon.Type = append(pokemon.Type, strings.TrimSpace(s.Text()))
 		})
+		pokemon.ID = count
+		count++
 
 		//Get Pokemon detail page URL
 		detailURL, _ := s.Find("a").First().Attr("href")

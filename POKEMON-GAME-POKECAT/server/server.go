@@ -12,7 +12,6 @@ import (
 	"time"
 )
 
-// Constants
 const (
 	GridSize             = 10
 	PokemonPerWave       = 10
@@ -51,7 +50,6 @@ type Pokemon struct {
 	Coord      Coord
 }
 
-// Global Variables
 var (
 	players          []Player
 	pokemons         []Pokemon

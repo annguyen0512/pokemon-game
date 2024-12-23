@@ -24857,5 +24857,1128 @@
    "X": 5,
    "Y": 7
   }
+ },
+ {
+  "id": 2,
+  "name": "Caterpie",
+  "type": [
+   "Bug"
+  ],
+  "base_exp": 39,
+  "speed": 45,
+  "attack": 30,
+  "defense": 35,
+  "special_atk": 20,
+  "special_def": 20,
+  "hp": 45,
+  "ev": 1,
+  "current_exp": 39,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:34:51.392196+07:00",
+  "Coord": {
+   "X": 4,
+   "Y": 1
+  }
+ },
+ {
+  "id": 4,
+  "name": "Hitmonlee",
+  "type": [
+   "Fighting"
+  ],
+  "base_exp": 159,
+  "speed": 87,
+  "attack": 120,
+  "defense": 53,
+  "special_atk": 35,
+  "special_def": 110,
+  "hp": 50,
+  "ev": 2,
+  "current_exp": 159,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:34:51.392264+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 7
+  }
+ },
+ {
+  "id": 6,
+  "name": "Ampharos",
+  "type": [
+   "Electric"
+  ],
+  "base_exp": 275,
+  "speed": 45,
+  "attack": 95,
+  "defense": 105,
+  "special_atk": 165,
+  "special_def": 110,
+  "hp": 90,
+  "ev": 3,
+  "current_exp": 275,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:34:51.392273+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 5
+  }
+ },
+ {
+  "id": 8,
+  "name": "Nidoran♀",
+  "type": [
+   "Poison"
+  ],
+  "base_exp": 55,
+  "speed": 41,
+  "attack": 47,
+  "defense": 52,
+  "special_atk": 40,
+  "special_def": 40,
+  "hp": 55,
+  "ev": 1,
+  "current_exp": 55,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:34:51.39228+07:00",
+  "Coord": {
+   "X": 0,
+   "Y": 5
+  }
+ },
+ {
+  "id": 10,
+  "name": "Charizard",
+  "type": [
+   "Fire",
+   "Flying"
+  ],
+  "base_exp": 285,
+  "speed": 100,
+  "attack": 104,
+  "defense": 78,
+  "special_atk": 159,
+  "special_def": 115,
+  "hp": 78,
+  "ev": 3,
+  "current_exp": 285,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:34:51.392283+07:00",
+  "Coord": {
+   "X": 5,
+   "Y": 6
+  }
+ },
+ {
+  "id": 12,
+  "name": "Magnemite",
+  "type": [
+   "Electric",
+   "Steel"
+  ],
+  "base_exp": 65,
+  "speed": 45,
+  "attack": 35,
+  "defense": 70,
+  "special_atk": 95,
+  "special_def": 55,
+  "hp": 25,
+  "ev": 1,
+  "current_exp": 65,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:34:51.392304+07:00",
+  "Coord": {
+   "X": 9,
+   "Y": 2
+  }
+ },
+ {
+  "id": 14,
+  "name": "Chansey",
+  "type": [
+   "Normal"
+  ],
+  "base_exp": 395,
+  "speed": 50,
+  "attack": 5,
+  "defense": 5,
+  "special_atk": 35,
+  "special_def": 105,
+  "hp": 250,
+  "ev": 2,
+  "current_exp": 395,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:34:51.392307+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 6
+  }
+ },
+ {
+  "id": 16,
+  "name": "Vaporeon",
+  "type": [
+   "Water"
+  ],
+  "base_exp": 184,
+  "speed": 65,
+  "attack": 65,
+  "defense": 60,
+  "special_atk": 110,
+  "special_def": 95,
+  "hp": 130,
+  "ev": 2,
+  "current_exp": 184,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:34:51.39231+07:00",
+  "Coord": {
+   "X": 7,
+   "Y": 5
+  }
+ },
+ {
+  "id": 18,
+  "name": "Jynx",
+  "type": [
+   "Ice",
+   "Psychic"
+  ],
+  "base_exp": 159,
+  "speed": 95,
+  "attack": 50,
+  "defense": 35,
+  "special_atk": 115,
+  "special_def": 95,
+  "hp": 65,
+  "ev": 2,
+  "current_exp": 159,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:34:51.392312+07:00",
+  "Coord": {
+   "X": 4,
+   "Y": 8
+  }
+ },
+ {
+  "id": 20,
+  "name": "Nidorina",
+  "type": [
+   "Poison"
+  ],
+  "base_exp": 128,
+  "speed": 56,
+  "attack": 62,
+  "defense": 67,
+  "special_atk": 55,
+  "special_def": 55,
+  "hp": 70,
+  "ev": 2,
+  "current_exp": 128,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:34:51.392319+07:00",
+  "Coord": {
+   "X": 0,
+   "Y": 1
+  }
+ },
+ {
+  "id": 22,
+  "name": "Noctowl",
+  "type": [
+   "Normal",
+   "Flying"
+  ],
+  "base_exp": 158,
+  "speed": 70,
+  "attack": 50,
+  "defense": 50,
+  "special_atk": 86,
+  "special_def": 96,
+  "hp": 100,
+  "ev": 2,
+  "current_exp": 158,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:35:51.402903+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 3
+  }
+ },
+ {
+  "id": 24,
+  "name": "Gastly",
+  "type": [
+   "Ghost",
+   "Poison"
+  ],
+  "base_exp": 62,
+  "speed": 80,
+  "attack": 35,
+  "defense": 30,
+  "special_atk": 100,
+  "special_def": 35,
+  "hp": 30,
+  "ev": 1,
+  "current_exp": 62,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:35:51.402959+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 0
+  }
+ },
+ {
+  "id": 26,
+  "name": "Aipom",
+  "type": [
+   "Normal"
+  ],
+  "base_exp": 72,
+  "speed": 85,
+  "attack": 70,
+  "defense": 55,
+  "special_atk": 40,
+  "special_def": 55,
+  "hp": 55,
+  "ev": 1,
+  "current_exp": 72,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:35:51.403022+07:00",
+  "Coord": {
+   "X": 5,
+   "Y": 0
+  }
+ },
+ {
+  "id": 28,
+  "name": "Magneton",
+  "type": [
+   "Electric",
+   "Steel"
+  ],
+  "base_exp": 163,
+  "speed": 70,
+  "attack": 60,
+  "defense": 95,
+  "special_atk": 120,
+  "special_def": 70,
+  "hp": 50,
+  "ev": 2,
+  "current_exp": 163,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:35:51.403033+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 3
+  }
+ },
+ {
+  "id": 30,
+  "name": "Machoke",
+  "type": [
+   "Fighting"
+  ],
+  "base_exp": 142,
+  "speed": 45,
+  "attack": 100,
+  "defense": 70,
+  "special_atk": 50,
+  "special_def": 60,
+  "hp": 80,
+  "ev": 2,
+  "current_exp": 142,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:35:51.403043+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 8
+  }
+ },
+ {
+  "id": 32,
+  "name": "Cleffa",
+  "type": [
+   "Fairy"
+  ],
+  "base_exp": 44,
+  "speed": 15,
+  "attack": 25,
+  "defense": 28,
+  "special_atk": 45,
+  "special_def": 55,
+  "hp": 50,
+  "ev": 1,
+  "current_exp": 44,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:35:51.403052+07:00",
+  "Coord": {
+   "X": 0,
+   "Y": 8
+  }
+ },
+ {
+  "id": 34,
+  "name": "Togetic",
+  "type": [
+   "Fairy",
+   "Flying"
+  ],
+  "base_exp": 142,
+  "speed": 40,
+  "attack": 40,
+  "defense": 85,
+  "special_atk": 80,
+  "special_def": 105,
+  "hp": 55,
+  "ev": 2,
+  "current_exp": 142,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:35:51.403056+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 1
+  }
+ },
+ {
+  "id": 36,
+  "name": "Tentacool",
+  "type": [
+   "Water",
+   "Poison"
+  ],
+  "base_exp": 67,
+  "speed": 70,
+  "attack": 40,
+  "defense": 35,
+  "special_atk": 50,
+  "special_def": 100,
+  "hp": 40,
+  "ev": 1,
+  "current_exp": 67,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:35:51.403059+07:00",
+  "Coord": {
+   "X": 1,
+   "Y": 2
+  }
+ },
+ {
+  "id": 38,
+  "name": "Poliwhirl",
+  "type": [
+   "Water"
+  ],
+  "base_exp": 135,
+  "speed": 90,
+  "attack": 65,
+  "defense": 65,
+  "special_atk": 50,
+  "special_def": 50,
+  "hp": 65,
+  "ev": 2,
+  "current_exp": 135,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:35:51.403063+07:00",
+  "Coord": {
+   "X": 3,
+   "Y": 9
+  }
+ },
+ {
+  "id": 40,
+  "name": "Spearow",
+  "type": [
+   "Normal",
+   "Flying"
+  ],
+  "base_exp": 52,
+  "speed": 70,
+  "attack": 60,
+  "defense": 30,
+  "special_atk": 31,
+  "special_def": 31,
+  "hp": 40,
+  "ev": 1,
+  "current_exp": 52,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:35:51.403071+07:00",
+  "Coord": {
+   "X": 4,
+   "Y": 7
+  }
+ },
+ {
+  "id": 42,
+  "name": "Noctowl",
+  "type": [
+   "Normal",
+   "Flying"
+  ],
+  "base_exp": 158,
+  "speed": 70,
+  "attack": 50,
+  "defense": 50,
+  "special_atk": 86,
+  "special_def": 96,
+  "hp": 100,
+  "ev": 2,
+  "current_exp": 158,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:36:51.41437+07:00",
+  "Coord": {
+   "X": 7,
+   "Y": 6
+  }
+ },
+ {
+  "id": 44,
+  "name": "Clefairy",
+  "type": [
+   "Fairy"
+  ],
+  "base_exp": 113,
+  "speed": 35,
+  "attack": 45,
+  "defense": 48,
+  "special_atk": 60,
+  "special_def": 65,
+  "hp": 70,
+  "ev": 2,
+  "current_exp": 113,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:36:51.414587+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 8
+  }
+ },
+ {
+  "id": 46,
+  "name": "Machoke",
+  "type": [
+   "Fighting"
+  ],
+  "base_exp": 142,
+  "speed": 45,
+  "attack": 100,
+  "defense": 70,
+  "special_atk": 50,
+  "special_def": 60,
+  "hp": 80,
+  "ev": 2,
+  "current_exp": 142,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:36:51.414644+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 8
+  }
+ },
+ {
+  "id": 48,
+  "name": "Seel",
+  "type": [
+   "Water"
+  ],
+  "base_exp": 65,
+  "speed": 45,
+  "attack": 45,
+  "defense": 55,
+  "special_atk": 45,
+  "special_def": 70,
+  "hp": 65,
+  "ev": 1,
+  "current_exp": 65,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:36:51.414656+07:00",
+  "Coord": {
+   "X": 5,
+   "Y": 4
+  }
+ },
+ {
+  "id": 50,
+  "name": "Omastar",
+  "type": [
+   "Rock",
+   "Water"
+  ],
+  "base_exp": 173,
+  "speed": 55,
+  "attack": 60,
+  "defense": 125,
+  "special_atk": 115,
+  "special_def": 70,
+  "hp": 70,
+  "ev": 2,
+  "current_exp": 173,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:36:51.414663+07:00",
+  "Coord": {
+   "X": 4,
+   "Y": 9
+  }
+ },
+ {
+  "id": 52,
+  "name": "Aipom",
+  "type": [
+   "Normal"
+  ],
+  "base_exp": 72,
+  "speed": 85,
+  "attack": 70,
+  "defense": 55,
+  "special_atk": 40,
+  "special_def": 55,
+  "hp": 55,
+  "ev": 1,
+  "current_exp": 72,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:36:51.414671+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 1
+  }
+ },
+ {
+  "id": 54,
+  "name": "Slowpoke",
+  "type": [
+   "Water",
+   "Psychic"
+  ],
+  "base_exp": 63,
+  "speed": 15,
+  "attack": 65,
+  "defense": 65,
+  "special_atk": 40,
+  "special_def": 40,
+  "hp": 90,
+  "ev": 1,
+  "current_exp": 63,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:36:51.414677+07:00",
+  "Coord": {
+   "X": 0,
+   "Y": 1
+  }
+ },
+ {
+  "id": 56,
+  "name": "Shellder",
+  "type": [
+   "Water"
+  ],
+  "base_exp": 61,
+  "speed": 40,
+  "attack": 65,
+  "defense": 100,
+  "special_atk": 45,
+  "special_def": 25,
+  "hp": 30,
+  "ev": 1,
+  "current_exp": 61,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:36:51.414683+07:00",
+  "Coord": {
+   "X": 4,
+   "Y": 4
+  }
+ },
+ {
+  "id": 58,
+  "name": "Marill",
+  "type": [
+   "Water",
+   "Fairy"
+  ],
+  "base_exp": 88,
+  "speed": 40,
+  "attack": 20,
+  "defense": 50,
+  "special_atk": 20,
+  "special_def": 50,
+  "hp": 70,
+  "ev": 2,
+  "current_exp": 88,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:36:51.414688+07:00",
+  "Coord": {
+   "X": 0,
+   "Y": 1
+  }
+ },
+ {
+  "id": 60,
+  "name": "Umbreon",
+  "type": [
+   "Dark"
+  ],
+  "base_exp": 184,
+  "speed": 65,
+  "attack": 65,
+  "defense": 110,
+  "special_atk": 60,
+  "special_def": 130,
+  "hp": 95,
+  "ev": 2,
+  "current_exp": 184,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:36:51.414712+07:00",
+  "Coord": {
+   "X": 5,
+   "Y": 8
+  }
+ },
+ {
+  "id": 62,
+  "name": "Horsea",
+  "type": [
+   "Water"
+  ],
+  "base_exp": 59,
+  "speed": 60,
+  "attack": 40,
+  "defense": 70,
+  "special_atk": 70,
+  "special_def": 25,
+  "hp": 30,
+  "ev": 1,
+  "current_exp": 59,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:37:51.432969+07:00",
+  "Coord": {
+   "X": 4,
+   "Y": 0
+  }
+ },
+ {
+  "id": 64,
+  "name": "Koffing",
+  "type": [
+   "Poison"
+  ],
+  "base_exp": 68,
+  "speed": 35,
+  "attack": 65,
+  "defense": 95,
+  "special_atk": 60,
+  "special_def": 45,
+  "hp": 40,
+  "ev": 1,
+  "current_exp": 68,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:37:51.433041+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 7
+  }
+ },
+ {
+  "id": 66,
+  "name": "Scyther",
+  "type": [
+   "Bug",
+   "Flying"
+  ],
+  "base_exp": 100,
+  "speed": 105,
+  "attack": 110,
+  "defense": 80,
+  "special_atk": 55,
+  "special_def": 80,
+  "hp": 70,
+  "ev": 1,
+  "current_exp": 100,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:37:51.433063+07:00",
+  "Coord": {
+   "X": 4,
+   "Y": 6
+  }
+ },
+ {
+  "id": 68,
+  "name": "Tentacool",
+  "type": [
+   "Water",
+   "Poison"
+  ],
+  "base_exp": 67,
+  "speed": 70,
+  "attack": 40,
+  "defense": 35,
+  "special_atk": 50,
+  "special_def": 100,
+  "hp": 40,
+  "ev": 1,
+  "current_exp": 67,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:37:51.433076+07:00",
+  "Coord": {
+   "X": 4,
+   "Y": 9
+  }
+ },
+ {
+  "id": 70,
+  "name": "Spinarak",
+  "type": [
+   "Bug",
+   "Poison"
+  ],
+  "base_exp": 50,
+  "speed": 30,
+  "attack": 60,
+  "defense": 40,
+  "special_atk": 40,
+  "special_def": 40,
+  "hp": 40,
+  "ev": 1,
+  "current_exp": 50,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:37:51.433097+07:00",
+  "Coord": {
+   "X": 3,
+   "Y": 3
+  }
+ },
+ {
+  "id": 72,
+  "name": "Weezing",
+  "type": [
+   "Poison"
+  ],
+  "base_exp": 172,
+  "speed": 60,
+  "attack": 90,
+  "defense": 120,
+  "special_atk": 85,
+  "special_def": 70,
+  "hp": 65,
+  "ev": 2,
+  "current_exp": 172,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:37:51.43311+07:00",
+  "Coord": {
+   "X": 2,
+   "Y": 2
+  }
+ },
+ {
+  "id": 74,
+  "name": "Kabuto",
+  "type": [
+   "Rock",
+   "Water"
+  ],
+  "base_exp": 71,
+  "speed": 55,
+  "attack": 80,
+  "defense": 90,
+  "special_atk": 55,
+  "special_def": 45,
+  "hp": 30,
+  "ev": 1,
+  "current_exp": 71,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:37:51.433121+07:00",
+  "Coord": {
+   "X": 9,
+   "Y": 4
+  }
+ },
+ {
+  "id": 76,
+  "name": "Shellder",
+  "type": [
+   "Water"
+  ],
+  "base_exp": 61,
+  "speed": 40,
+  "attack": 65,
+  "defense": 100,
+  "special_atk": 45,
+  "special_def": 25,
+  "hp": 30,
+  "ev": 1,
+  "current_exp": 61,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:37:51.433131+07:00",
+  "Coord": {
+   "X": 0,
+   "Y": 2
+  }
+ },
+ {
+  "id": 78,
+  "name": "Oddish",
+  "type": [
+   "Grass",
+   "Poison"
+  ],
+  "base_exp": 64,
+  "speed": 30,
+  "attack": 50,
+  "defense": 55,
+  "special_atk": 75,
+  "special_def": 65,
+  "hp": 45,
+  "ev": 1,
+  "current_exp": 64,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:37:51.433142+07:00",
+  "Coord": {
+   "X": 7,
+   "Y": 2
+  }
+ },
+ {
+  "id": 80,
+  "name": "Ledian",
+  "type": [
+   "Bug",
+   "Flying"
+  ],
+  "base_exp": 137,
+  "speed": 85,
+  "attack": 35,
+  "defense": 50,
+  "special_atk": 55,
+  "special_def": 110,
+  "hp": 55,
+  "ev": 2,
+  "current_exp": 137,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:37:51.433225+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 8
+  }
+ },
+ {
+  "id": 82,
+  "name": "Feraligatr",
+  "type": [
+   "Water"
+  ],
+  "base_exp": 239,
+  "speed": 78,
+  "attack": 105,
+  "defense": 100,
+  "special_atk": 79,
+  "special_def": 83,
+  "hp": 85,
+  "ev": 2,
+  "current_exp": 239,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:38:51.461202+07:00",
+  "Coord": {
+   "X": 2,
+   "Y": 1
+  }
+ },
+ {
+  "id": 84,
+  "name": "Weepinbell",
+  "type": [
+   "Grass",
+   "Poison"
+  ],
+  "base_exp": 137,
+  "speed": 55,
+  "attack": 90,
+  "defense": 50,
+  "special_atk": 85,
+  "special_def": 45,
+  "hp": 65,
+  "ev": 2,
+  "current_exp": 137,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:38:51.461262+07:00",
+  "Coord": {
+   "X": 4,
+   "Y": 0
+  }
+ },
+ {
+  "id": 86,
+  "name": "Growlithe",
+  "type": [
+   "Fire"
+  ],
+  "base_exp": 70,
+  "speed": 55,
+  "attack": 75,
+  "defense": 45,
+  "special_atk": 65,
+  "special_def": 50,
+  "hp": 60,
+  "ev": 1,
+  "current_exp": 70,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:38:51.461273+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 5
+  }
+ },
+ {
+  "id": 88,
+  "name": "Hitmonlee",
+  "type": [
+   "Fighting"
+  ],
+  "base_exp": 159,
+  "speed": 87,
+  "attack": 120,
+  "defense": 53,
+  "special_atk": 35,
+  "special_def": 110,
+  "hp": 50,
+  "ev": 2,
+  "current_exp": 159,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:38:51.461279+07:00",
+  "Coord": {
+   "X": 0,
+   "Y": 0
+  }
+ },
+ {
+  "id": 90,
+  "name": "Sunflora",
+  "type": [
+   "Grass"
+  ],
+  "base_exp": 149,
+  "speed": 30,
+  "attack": 75,
+  "defense": 55,
+  "special_atk": 105,
+  "special_def": 85,
+  "hp": 75,
+  "ev": 2,
+  "current_exp": 149,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:38:51.461283+07:00",
+  "Coord": {
+   "X": 1,
+   "Y": 3
+  }
+ },
+ {
+  "id": 92,
+  "name": "Venusaur",
+  "type": [
+   "Grass",
+   "Poison"
+  ],
+  "base_exp": 281,
+  "speed": 80,
+  "attack": 100,
+  "defense": 123,
+  "special_atk": 122,
+  "special_def": 120,
+  "hp": 80,
+  "ev": 2,
+  "current_exp": 281,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:38:51.461289+07:00",
+  "Coord": {
+   "X": 8,
+   "Y": 5
+  }
+ },
+ {
+  "id": 94,
+  "name": "Onix",
+  "type": [
+   "Rock",
+   "Ground"
+  ],
+  "base_exp": 77,
+  "speed": 70,
+  "attack": 45,
+  "defense": 160,
+  "special_atk": 30,
+  "special_def": 45,
+  "hp": 35,
+  "ev": 1,
+  "current_exp": 77,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:38:51.461294+07:00",
+  "Coord": {
+   "X": 6,
+   "Y": 8
+  }
+ },
+ {
+  "id": 96,
+  "name": "Hitmonchan",
+  "type": [
+   "Fighting"
+  ],
+  "base_exp": 159,
+  "speed": 76,
+  "attack": 105,
+  "defense": 79,
+  "special_atk": 35,
+  "special_def": 110,
+  "hp": 50,
+  "ev": 2,
+  "current_exp": 159,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:38:51.461375+07:00",
+  "Coord": {
+   "X": 7,
+   "Y": 9
+  }
+ },
+ {
+  "id": 98,
+  "name": "Quagsire",
+  "type": [
+   "Water",
+   "Ground"
+  ],
+  "base_exp": 151,
+  "speed": 35,
+  "attack": 85,
+  "defense": 85,
+  "special_atk": 65,
+  "special_def": 65,
+  "hp": 95,
+  "ev": 2,
+  "current_exp": 151,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:38:51.461381+07:00",
+  "Coord": {
+   "X": 2,
+   "Y": 3
+  }
+ },
+ {
+  "id": 100,
+  "name": "Mankey",
+  "type": [
+   "Fighting"
+  ],
+  "base_exp": 61,
+  "speed": 70,
+  "attack": 80,
+  "defense": 35,
+  "special_atk": 35,
+  "special_def": 45,
+  "hp": 40,
+  "ev": 1,
+  "current_exp": 61,
+  "level": 1,
+  "SpawnTime": "2024-12-23T21:38:51.461406+07:00",
+  "Coord": {
+   "X": 0,
+   "Y": 5
+  }
  }
 ]
