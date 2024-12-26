@@ -1,11 +1,26 @@
-# Pokedex
+# Pokémon Game Simulation in Go
 
-This functionality fetches Pokémon data from [PokemonDB](https://pokemondb.net/pokedex/national), parses the details of each Pokémon, and saves the information into a JSON file.
+## 🌟 Introduction
 
-## Step to run pokedex
+This project simulates a simple Pokémon game built using **Go (Golang)**. Players can move around a map, catch randomly spawned Pokémon, and manage their Pokémon list. The game emphasizes player interaction and Pokémon management.
 
-- Clone the file from github
-- Open terminal, execute code: go mod tidy
-- Execute code: go run pokedex.go
-- The result will appear in file pokedex.json
+---
 
+## ⚙️ Key Features
+
+- **Player Management**: Register new players, update positions, and manage their Pokémon list.
+- **Pokémon System**: Randomly spawn Pokémon with various attributes (speed, level, stats).
+- **Catch Pokémon**: Players can capture Pokémon appearing on the map.
+- **Data Persistence**: Player and Pokémon data are stored in JSON files.
+- **Concurrency Handling**: Uses `sync.Mutex` to ensure data consistency in a multithreaded environment.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Language**: Go (Golang)
+- **Data Storage**: JSON
+- **Built-in Libraries**:
+  - `sync` (thread synchronization)
+  - `encoding/json` (read/write JSON files)
+  - `time` (time management)

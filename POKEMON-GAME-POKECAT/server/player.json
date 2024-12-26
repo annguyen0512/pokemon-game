@@ -359,10 +359,55 @@
      "X": 8,
      "Y": 8
     }
+   },
+   {
+    "id": 28,
+    "name": "Bellsprout",
+    "type": [
+     "Grass",
+     "Poison"
+    ],
+    "base_exp": 60,
+    "speed": 40,
+    "attack": 75,
+    "defense": 35,
+    "special_atk": 70,
+    "special_def": 30,
+    "hp": 50,
+    "ev": 1,
+    "current_exp": 60,
+    "level": 1,
+    "SpawnTime": "2024-12-24T13:59:09.606141+07:00",
+    "Coord": {
+     "X": 8,
+     "Y": 9
+    }
+   },
+   {
+    "id": 42,
+    "name": "Dugtrio",
+    "type": [
+     "Ground"
+    ],
+    "base_exp": 149,
+    "speed": 110,
+    "attack": 100,
+    "defense": 60,
+    "special_atk": 50,
+    "special_def": 70,
+    "hp": 35,
+    "ev": 2,
+    "current_exp": 149,
+    "level": 1,
+    "SpawnTime": "2024-12-24T14:15:33.764319+07:00",
+    "Coord": {
+     "X": 9,
+     "Y": 8
+    }
    }
   ],
   "CurrentCoord": {
-   "X": 8,
+   "X": 9,
    "Y": 8
   }
  },
@@ -529,8 +574,8 @@
    }
   ],
   "CurrentCoord": {
-   "X": 6,
-   "Y": 0
+   "X": 7,
+   "Y": 1
   }
  },
  {
